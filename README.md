@@ -6,6 +6,7 @@ This is a image processing task accomplished with the help of OPENCV and python.
 
 ## The shape detection stage
 At this point the open cv detects the different shapes. it does not label them for rectangle or square ... it just finds them on the image.
+
 <img src="images/shapes_detected.png" height="350" align="center">
 
 ## The output Image:
